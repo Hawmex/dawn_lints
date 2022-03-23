@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Improved `README.md`.
+
 ## 1.0.1
 
 - Improved package description.
