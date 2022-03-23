@@ -1,6 +1,6 @@
 name: dawn_lints
-description: The recommended lints for Dawn projects.
-version: 1.0.0
+description: This package contains the recommended lints for developing projects with Dawn package.
+version: 1.0.1
 homepage: https://github.com/Hawmex/dawn_lints
 repository: https://github.com/Hawmex/dawn_lints
 environment:

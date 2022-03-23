@@ -1,1 +1,1 @@
-The recommended lints for Dawn projects.
+This package contains the recommended lints for developing projects with Dawn package.
