@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Upgraded `lints` to `2.0.0`.
+
 ## 1.0.2
 
 - Improved `README.md`.
