@@ -1,5 +1,5 @@
 # dawn_lints
 
-## Description
+## 📖 Description
 
-This package contains the recommended lints for developing projects with Dawn package.
+This package contains the recommended lints for [Dawn](https://github.com/Hawmex/dawn).

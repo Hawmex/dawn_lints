@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Improved README.
+
 ## 2.0.0
 
 - Upgraded `lints` to `2.0.0`.
