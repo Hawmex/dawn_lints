@@ -1,3 +1,7 @@
+## 3.0.0
+
+- Added stricter type checks.
+
 ## 2.0.1
 
 - Improved README.
