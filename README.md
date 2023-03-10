@@ -7,6 +7,6 @@
 
 </div>
 
-# Dawn Lints 3.0
+# Dawn Lints 3.1
 
 This package contains the recommended lints for [Dawn](https://github.com/Hawmex/dawn).

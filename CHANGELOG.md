@@ -1,3 +1,7 @@
+## 3.1.0
+
+- Dawn Lints 3.1.0 works with Dart SDK 2.19.4 and higher.
+
 ## 3.0.0
 
 - Added stricter type checks.
