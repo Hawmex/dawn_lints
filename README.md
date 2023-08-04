@@ -1,12 +1,4 @@
-<div align="center">
+# DEPRECATED
 
-<img
-    src="https://raw.githubusercontent.com/Hawmex/dawn/main/example/web/assets/logo.svg"
-    width="192px"
-/>
-
-</div>
-
-# Dawn Lints 3.1
-
-This package contains the recommended lints for [Dawn](https://github.com/Hawmex/dawn).
+**[Dawn](https://github.com/Hawmex/dawn) has been deprecated and is
+continued as [Navand](https://github.com/Hawmex/navand).**
